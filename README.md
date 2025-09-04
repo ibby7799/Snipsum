@@ -33,11 +33,8 @@ A tiny, **pure-Python** desktop tool that lets you drag a rectangle on your scre
 
 ## Demo
 
-Embed in Markdown:
-
-```md
 ![SnipSum demo](https://github.com/ibby7799/Snipsum/blob/main/demo.gif)
-```
+
 
 ---
 
