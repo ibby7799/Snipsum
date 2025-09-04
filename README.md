@@ -33,13 +33,6 @@ A tiny, **pure-Python** desktop tool that lets you drag a rectangle on your scre
 
 ## Demo
 
-> _Add your GIF or screenshot here_
-
-```
-docs/
-  demo.gif
-```
-
 Embed in Markdown:
 
 ```md
